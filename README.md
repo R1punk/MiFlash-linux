@@ -1,4 +1,20 @@
 # MiFlash-linux
+### Features
+
+
+
+- ```Flashing Stock Rom```
+
+- ```Backup Firmware```
+
+- ```Flash Twrp```
+
+- ```Flash Boot.img```
+
+- ```Remove Mi Account```
+
+- ```Bypass FRP```
+- 
 ### installation
 git clone https://github.com/R1punk/MiFlash-linux && cd MiFlash-linux && chmod +x go.sh
 
